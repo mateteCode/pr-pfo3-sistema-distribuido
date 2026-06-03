@@ -65,9 +65,10 @@ python client.py
 
 #### Capturas de pantalla
 
-![Consola](capturas/1.png)
-![Consola](capturas/2.png)
-![Consola](capturas/3.png)
+![Consola](capturas/1.jpg)
+![Consola](capturas/2.jpg)
+![Consola](capturas/3.jpg)
+![Consola](capturas/4.jpg)
 
 ### 🛠️ Modificaciones y Configuración
 
